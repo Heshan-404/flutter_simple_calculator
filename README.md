@@ -4,9 +4,6 @@ This is another Flutter application I built as a learning exercise.
 
 ![image](https://github.com/user-attachments/assets/fe5be582-45e8-494c-8631-80c825fd359b)
 
-
-**Replace `ADD_YOUR_SCREENSHOT_HERE`, etc., with the actual links or paths to your project screenshots.**
-
 ## What I Learned
 
 Building this "flutter_simple_calculator" app focused on understanding stateful widgets and basic state management in Flutter:
